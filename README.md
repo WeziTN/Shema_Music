@@ -55,7 +55,9 @@ Offline doesn’t mean outdated.
 🔹 Tech Stack (optional but good for you)
 
 Kotlin
+
 Jetpack Compose
+
 Material 3
 
 
