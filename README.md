@@ -33,10 +33,15 @@ To give offline music the same level of presentation and pride as streaming with
 🔹 Features
 
 🎵 Offline-first – Works completely without internet
+
 🎧 High-quality playback – Supports MP3 & FLAC
+
 🖥️ Clean, minimal UI – No clutter, no distractions
+
 📱 Modern “Now Playing” screen – Looks good enough to share
+
 📂 Full control of your library – Your files, your rules
+
 ⚡ Lightweight & fast – No unnecessary background stuff
 
 
