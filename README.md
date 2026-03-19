@@ -4,6 +4,7 @@
 Offline music, but it finally looks as good as it sounds.
 
 🔹 What is Shema?
+
 Shema is a clean, modern offline music player built for people who actually care about their music.
 It focuses on:
 High-quality local audio (MP3, FLAC,etc...)
