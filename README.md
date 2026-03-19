@@ -64,7 +64,6 @@ Feel free to be honest good or bad. That’s how this gets better.
 
 
 🔹 Contact
-GitHub: (your link here)
 Email: Nyirendawezi2004@gmail.com
 
 
